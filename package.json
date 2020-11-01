@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Ejercicio API",
+  "main": "src",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Diego Correa",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
